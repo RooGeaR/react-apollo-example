@@ -1,3 +1,9 @@
+## react-apollo-example
+
+This example demonstrates the usage of React apollo client using GitHub GraphQL API following the instructions in the post ["Getting started with GraphQL, React and apollo client"](https://reactgo.com/graphql-react-apollo-client/).
+
+The post shows how to obtain our repositories, add and remove stars. Also a generic search engine for repositories.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
